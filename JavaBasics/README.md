@@ -1,0 +1,1 @@
+[Ссылка на испытания](https://ru.hexlet.io/courses/java-basics#challenges)
